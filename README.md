@@ -1,2 +1,2 @@
 # BDA
-Things that I do at Big Data master
+Things I do at Big Data Master
